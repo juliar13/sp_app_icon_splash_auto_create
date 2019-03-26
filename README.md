@@ -1,0 +1,1 @@
+# sp_app_icon_splash_auto_create
